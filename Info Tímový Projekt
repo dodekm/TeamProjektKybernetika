@@ -1,0 +1,78 @@
+http://urk.fei.stuba.sk/sk/content/informacie-k-projektom-timovy-projekt
+Tímový projekt
+Predmet pre študentov 1. ročníka študijných programov inžinierskeho štúdia Robotika a Kybermetika. 
+Predmet sa hodnotí klasifikovaným zápočtom (6 kreditov). 
+Garantom predmetu je prof. Ing. Ján Murgaš, PhD. 
+Rozsah: 6 hod./týždenne
+
+Harmonogram
+1. týždeň semestra: zostavenie tímu, výber témy, vypracovanie ponuky
+2. týždeň semestra: potvrdenie témy, rozdelenie tímových rolí, organizačné záležitosti (webstránka, dokumentačné úložisko,termíny stretávania...)
+V druhom týždni treba zverejniť stránku tímu, bude uvedená tu.
+
+3. - 12. týždeň: práca na projekte priebežne dokumentovaná zápisnicami
+skúškové obdobie: spoločná verejná obhajoba a oponentúra projektov
+Hodnotené úlohy
+Hodnotenie tímu pozostáva z hodnotenia nasledovných čiastkových úloh:
+
+záväzná ponuka na vypracovanie produktu
+funkčná a aktualizovaná web-stránka
+zápisnice z každej porady
+dokumentáciu projektu (vytlačiť v rozsahu 30-60 strán)
+recenzia konkurenčného projektu
+prezentácia a obhajoba projektu
+Vedúci oznámi po obhajobe celkový počet bodov z maximálneho možného (nx100, kde n je počet členov tímu) a tím si body rozdelí medzi sebou podľa vlastného uváženia.
+
+Ponuka
+Ponuka obsahuje tieto informácie:
+
+Tím (predstavenie jednotlivých členov; doterajšie skúsenosti, najmä v súvislosti s danou témou - konkrétne, napr. aj vybrané predmety (inž.) štúdia súvisiace s témou; odporúčania, apod.)
+Motivácia (prečo chceme túto tému)
+Čo môžeme poskytnúť (hrubý návrh, plán projektu. Môže obsahovať aj podrobnosti v prípade, že sú v tíme odborníci pre danú oblasť. Ide vlastne o podrobnejšiu špecifikáciu zadania na základe znalostí z danej problematiky, ak to nie je úplne nová problematika.)
+Predpokladané zdroje (najmä alternatívy implementačného prostredia, požiadavky na čas, miestnosti, hardvér, softvér, apod.)
+Aktuálny rozvrh všetkých členov tímu v jednom formulári (dni x hodiny)
+Pri ponuke sa hodnotí:
+
+formálna stránka: úprava, dodržanie požadovaných náležitostí, štýl písania a pravopisné chyby, jazyková kultúra (ponuka je v slovenčine)
+zrozumiteľnosť, jasnosť, čitateľnosť a presvedčivosť
+obsah: preukázanie spôsobilosti tímu riešiť danú tému
+Web stránky
+Každý tím udržuje www prezentáciu stavu projektu. WWW stránka obsahuje základné a aktuálne informácie o stave projektu a dokumentáciu v elektronickom tvare (jednotka aktualizácie je 1 týždeň). Pri hodnotení sa do úvahy berie najmä aktuálnosť prezentácie stavu projektu a plnenie úlohy komunikačného prostriedku (v rámci tímu ako aj prezentácia tímu navonok).
+
+Zápisnice
+Z každého stretnutia tím vypracuje zápis. Tieto zápisy tvoria súčasť dokumentácie. Úroveň zápisov sa hodnotí v rámci dokumentácie (časť Riadenie). Zápis musí obsahovať základné údaje o stretnutí (kedy bolo stretnutie, kto sa na ňom zúčastnil, kto vypracoval zápis) a podrobné informácie z priebehu stretnutia. Každý zápis musí obsahovať stanovenie úloh a tiež zhodnotenie splnenia úloh určených na predchádzajúcom stretnutí (samozrejme okrem prvého zápisu). Zápisnice musia byť zverejnené na web stránke minimálne jeden deň pred nasledovným stretnutím tímu.
+
+Teória zápisníc
+Zápisy z porád sú dôležitým dokladom, a preto ich obsahu i forme treba venovať náležitú pozornosť predovšetkým preto, že v zápisoch z porád sa uvádzajú úlohy, termíny a pracovníci zodpovední za ich plnenie.
+
+Zápis sa má vyhotoviť čo najskôr, najlepšie hneď po porade.
+
+Najviac používaný druh zápisov je stručný zápis. Používa sa na zapisovanie pravidelných interných porád. Obsahuje okrem bežných údajov i výsledok rokovania, uložené úlohy, mená zodpovedných pracovníkov a termíny na ich plnenie. Na ľavej strane sa prehľadne pod samotnou úlohou uvádzajú zodpovední pravcovníci, na pravej strane termíny, čo umožňuje lepšiu orientáciu v zápise.
+
+Podrobnejší (širší) zápis má v podstate rovnakú úpravu ako stručný zápis, ale uvádzajú sa v ňom krátke obsahy referátov, diskusných príspevkov, mená účastníkov, ktorí tieto referáty a diskusné príspevky predniesli, prípadne sa uvedie doslovné znenie niektorých pripomienok a vyhlásení.
+
+Poslednou formou zápisu z porád je doslovný prepis, ktorý sa vyhotovuje iba pri osobitne dôležitých poradách a konferenciách.
+
+Zápisnice treba evidovať a vyhodnocovať splnenie stanovených úloh.
+
+Dokumentácia
+Projektová dokumentácia musí obsahovať najmä:
+
+oficiálne zadanie
+vypracovanú ponuku
+ciele riešenia
+analýzu problému
+informácie o použitých algoritmoch a metódach
+dokumentáciu k programom
+výsledky a porovnania riešenia so známymi výsledkami
+použitú literatúru a zdroje spracovávaných textov
+Posudok
+Každý tím vypracuje posudok na riešenie iného tímu. Je potrebné zhodnotiť prínosy aj nedostatky projektu. 
+Posudok by mal mať ideálne najviac 1 stranu A4, a mal by stručne obsiahnuť tieto body:
+
+Zhodnotenie formálnej úrovne projektu, tzn. úprava, štruktúra textu, gramatika, web-stránka a zápisnice.
+Zhodnotenie obsahu dokumentácie: analýza, návrh, popis implementácie.
+Zhodnotenie funkčnosti implementácie.
+Súhrnné zhodnotenie, silné aj slabé stránky projektu.
+Obhajoba
+Záverom tímového projektu je jeho obhajoba. Táto prebieha formou prezentácie a diskusie k práci. Očakáva sa, že do prezentácie TP sa zapájajú všetci študenti v tíme. Prezentácia by mala trvať cca. 15 min. a vystihnúť vykonanú prácu a jej prínosy. Celkové hodnotenie tímov potom určuje pedagogický vedúci s komisiou podľa predlohy , výsledné body si členovia tímu môžu rozdeliť podľa zásluh.
