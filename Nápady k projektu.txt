@@ -1,0 +1,21 @@
+-Študijny program RaK aké sú tam predmety?
+-Predmety nadväzujúce a predchádzajúce UKYB : Prvy semester Uvod do ininierstva - Matlab len základy .. maticové operácie, 
+Treti semester ide UKYB, beí vtedy aj matematika 3 - povinnı predmet ... akı je obsah, ? 
+Paralelne beí aj filtrácia FSS - povinnı predmet, netreba sa preto zameriava na frekvenèné vlastnosti systémov.
+-Nadvezujuce predmety : èíslicové riadenie,TPR, POHS, spojité procesy.. treba aby u vedeli modelova, chápa vlastne úplne všetky základy
+
+Pointa : Kde sa študenti nauèia základy automatického riadenia ? Na UKYBE.
+Nutné základy pre zvládnutie ïalšieho štúdia. Prvé stretnutie s LPT, simuláciami, schémami a riadením.
+
+Toto je blok zameranı na zvládnutie práce s Matlabom a simulácie. Nemusí obsahova teóriu, to sa bude robi potom - do normálnych prednášok. MAl by obsahova tutoriály ako vyuzíva Matlab  a Simulink. Vyslovene jednoduché rıchle slajdy s obrázkami a príkladmi.
+
+Bod èíslo jeden: Nauèi sa vyuíva Matlab a Simulink, majú síce UII ale treba vedie pouíva funkcie System controll toolboxu. Take navrhujem spravi nezávislı blok na douèenie vyuívania Matlabu. Transfer function, ako sa robí step, nyquist, bode,. Ako vyrobím URO zo systému a regulátora, algebra prenosovıch funkcii v Matlabe, ako spravi diskrétnu prenosovú funkciu, ako v Matlabe spravi filter, dopravné oneskorenie. Všetky praktické veci, ktoré budú potrebova aj v ïalších predmetoch. Ako z prenosovej funkcie vytiahnu koeficinty a vypoèíta póly. A naopak ako z pólov získa koeficienty. Priestor na vaše ïalšie návrhy.... všetko èo sa dá vyui pri štúdiu a zadaniach.. zapojte vlastné skúsenosti. 
+
+Bod èíslo dva:
+Ïalej rıchlokurz k Simulinku. Ako prepoji Simulink s Matlabom, monosti pouitia premennıch z workspace, bloky ToWorkspace, FromWorkspace, ako si nastavi periódu vzorkovania, vybranie solvera. Pouívanie základnıch blokov pri modelovaní. Nejaké slajdy k transfer function, integrator, poèiatoèné podmienky integrátor, zosilnenia, suma... ako si vysklada URO, pouitie Simulinkovıch regulátorov versus ako si vysklada vlastnı regulátor. Spojité bloky versus diskrétne bloky, diskrétna TF/ filter.
+
+
+Bod èíslo tri:
+Nauèi sa modelova. To znamená, mám diferenciálne rovnice, chcem si posklada simulaènú schému. 
+Úprava diferenciálnej rovnice vyššieho rádu na viac diferenciálnych rovníc prvého rádu. Transformácia do stavového modelu. Ako vykresli prechodovú charakteristiku, ako sa robí prevodová charakteristika ako vyzerá lineárna a nelineárna. Ako sa simulaène zmeria frekvenèná charakteristika ... príklad... obrázky... Príklady na konkrétne systémy priamo v Simulinku - urèite by som tam dal kyvadlo a jednosmernı motor, ïalej je dobrı príklad harmonickı oscilátor .... inšpirujte sa aj v Spojitıch procesoch.... 
+Ako z diferenciálych rovníc nakresli blokovú schému. Kedy je systém lineárny a kedy nelineárny.
