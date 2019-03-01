@@ -1,6 +1,16 @@
 -Študijny program RaK aké sú tam predmety?
 -Predmety nadväzujúce a predchádzajúce UKYB : Prvy semester Uvod do ininierstva - Matlab len základy .. maticové operácie, 
 Treti semester ide UKYB, beí vtedy aj matematika 3 - povinnı predmet ... akı je obsah, ? 
+Obsah M3- 
+10. Obyèajná lineárna diferenciálna rovnica druhého rádu (ODR) s konštantnımi koeficientmi a metódy jej riešenia.
+11. Laplaceova transformácia – definícia, vlastnosti a aplikácie pri riešení ODR a elektrickıch obvodov.
+ Operátorovı poèet .
+2. Fourierov rad, Fourierov integrál a jeho fyzikálny vıznam Fourierova transformácia, spektrum funkcie, aplikácie v elektrotechnike.
+3. Laplaceova transformácia, veta o koneènej a zaèiatoènej hodnote, obrazy vybranıch funkcií.
+4. Inverzná Laplaceova transformácia, Heavisideov rozvoj, aplikácie
+
+Treba si uvedomi, e je zbytoèné toto uèi aj na UKYB
+
 Paralelne beí aj filtrácia FSS - povinnı predmet, netreba sa preto zameriava na frekvenèné vlastnosti systémov.
 -Nadvezujuce predmety : èíslicové riadenie,TPR, POHS, spojité procesy.. treba aby u vedeli modelova, chápa vlastne úplne všetky základy
 
