@@ -40,7 +40,11 @@ BLOK 2.Prenosové funkcie (typy - nuly,póly,astatizmus), charakteristiky (prech
 BLOK 3.Riadenie, regulátory, URO, ORO, stabilita - kritéria(frekvenčné, algebrické), PID regulátor, kvalita riadenia,trvalá regulačná odchýlka,riadenie jednoduchýs sústav PID regulátorom  Prednášky: P6,P7
 
 Tieto kapitoly  si musíme rozdeliť 
-Mali by byť náročnosťou na vašu prácu vyvážené. Na bloky 2 a 3 budú dvojice
+Mali by byť náročnosťou na vašu prácu vyvážené. Na bloky 2 a 3 budú dvojice.
+
+Materiály a zdroje, ktoré považujem za dobré nahrám do priečinku zdroje. Konkrétne: Prednášky Aplikovaná Matematika 2016, prednášky z AR1.
+
+
 
 
  
