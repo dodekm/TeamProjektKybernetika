@@ -1,15 +1,19 @@
+﻿IMPORTANT !!!! 
+Prácu na prednáškach si predstavujem riešiť formou úprav a revízii v MS Power Point. 
+Kto to nepozná - obrázok
+
 -Študijny program RaK aké sú tam predmety?
 -Predmety nadväzujúce a predchádzajúce UKYB : Prvy semester Uvod do inžinierstva - Matlab len základy .. maticové operácie, 
 Treti semester ide UKYB, beží vtedy aj matematika 3 - povinný predmet ... aký je obsah, ? 
 Obsah M3- 
-10. Obyčajná lineárna diferenciálna rovnica druhého rádu (ODR) s konštantnými koeficientmi a metódy jej riešenia.
-11. Laplaceova transformácia – definícia, vlastnosti a aplikácie pri riešení ODR a elektrických obvodov.
+- Obyčajná lineárna diferenciálna rovnica druhého rádu (ODR) s konštantnými koeficientmi a metódy jej riešenia.
+- Laplaceova transformácia – definícia, vlastnosti a aplikácie pri riešení ODR a elektrických obvodov.
  Operátorový počet .
-2. Fourierov rad, Fourierov integrál a jeho fyzikálny význam Fourierova transformácia, spektrum funkcie, aplikácie v elektrotechnike.
-3. Laplaceova transformácia, veta o konečnej a začiatočnej hodnote, obrazy vybraných funkcií.
-4. Inverzná Laplaceova transformácia, Heavisideov rozvoj, aplikácie
+- Fourierov rad, Fourierov integrál a jeho fyzikálny význam Fourierova transformácia, spektrum funkcie, aplikácie v elektrotechnike.
+- Laplaceova transformácia, veta o konečnej a začiatočnej hodnote, obrazy vybraných funkcií.
+- Inverzná Laplaceova transformácia, Heavisideov rozvoj, aplikácie
 
-Treba si uvedomiť, že je zbytočné toto učiť aj na UKYB
+Treba si uvedomiť, že je zbytočné toto učiť dopodrobna a znovu aj na UKYB
 
 Postrehy:
 - študenti, ktorí nezvládnu na prvý pokus M2 nebudú mať žiadne základy o Laplaceovej transformácii na predmete UKYB
@@ -20,6 +24,24 @@ Paralelne beží aj filtrácia FSS - povinný predmet, netreba sa preto zameriav
 Pointa : Kde sa študenti naučia základy automatického riadenia ? Na UKYBE.
 Nutné základy pre zvládnutie ďalšieho štúdia. Prvé stretnutie s LPT, simuláciami, schémami a riadením.
 
+Oficiálny silabus predmetu:
+Stručná osnova predmetu:
+1.	Kybernetika ako veda o riadení. 
+2.	Procesy a ich matematický opis (technické, biologické, ekonomické a sociálne). Kybernetický model procesu. 
+3.	Statické a dynamické vlastnosti procesov. Ustálené a prechodné stavy. 
+4.	Technický proces (jednoduchý proces fyzikálne opísateľný pomocou vedomostí z fyziky a elektrotechniky) a jeho matematický model. 
+5.	Systémové vyjadrenie. Prenosová funkcia ako jednoduchý model systému. Vlastnosti prenosových funkcií, póly, nuly. Frekvenčná prenosová funkcia. 
+6.	Graficky vyjadrené modely a ich využitie pri posudzovaní dynamických vlastností systémov. 
+7.	Prechodové charakteristiky systémov. 
+8.	Frekvenčné charakteristiky a ich praktické meranie a využitie. Riadenie procesov. 
+9.	Princíp spätnej väzby. Riadenie ako nevyhnutná činnosť v prevádzke procesov. 
+10.	Stabilita procesov a kvalita riadenia procesov 
+11.	Biologický proces. Procesy riadenia glukózy v krvi živých organizmov. 
+12.	Ekonomické procesy a ich modely. 
+
+Toto sú vlastne kapitoly, ktorým sa musíme venovať.
+
+BLOK 0:
 Toto je blok zameraný na zvládnutie práce s Matlabom a simulácie. Nemusí obsahovať teóriu, to sa bude robiť potom - do normálnych prednášok. MAl by obsahovať tutoriály ako vyuzívať Matlab  a Simulink. Vyslovene jednoduché rýchle slajdy s obrázkami a príkladmi.
 
 Bod číslo jeden: Naučiť sa využívať Matlab a Simulink, majú síce UII ale treba vedieť používať funkcie System controll toolboxu. Takže navrhujem spraviť nezávislý blok na doučenie využívania Matlabu. Transfer function, ako sa robí step, nyquist, bode,. Ako vyrobím URO zo systému a regulátora, algebra prenosových funkcii v Matlabe, ako spraviť diskrétnu prenosovú funkciu, ako v Matlabe spraviť filter, dopravné oneskorenie. Všetky praktické veci, ktoré budú potrebovať aj v ďalších predmetoch. Ako z prenosovej funkcie vytiahnuť koeficinty a vypočítať póly. A naopak ako z pólov získať koeficienty. Priestor na vaše ďalšie návrhy.... všetko čo sa dá využiť pri štúdiu a zadaniach.. zapojte vlastné skúsenosti. 
@@ -32,3 +54,5 @@ Bod číslo tri:
 Naučiť sa modelovať. To znamená, mám diferenciálne rovnice, chcem si poskladať simulačnú schému. 
 Úprava diferenciálnej rovnice vyššieho rádu na viac diferenciálnych rovníc prvého rádu. Transformácia do stavového modelu. Ako vykresliť prechodovú charakteristiku, ako sa robí prevodová charakteristika ako vyzerá lineárna a nelineárna. Ako sa simulačne zmeria frekvenčná charakteristika ... príklad... obrázky... Príklady na konkrétne systémy priamo v Simulinku - určite by som tam dal kyvadlo a jednosmerný motor, ďalej je dobrý príklad harmonický oscilátor .... inšpirujte sa aj v Spojitých procesoch.... 
 Ako z diferenciálych rovníc nakresliť blokovú schému. Kedy je systém lineárny a kedy nelineárny.
+
+
