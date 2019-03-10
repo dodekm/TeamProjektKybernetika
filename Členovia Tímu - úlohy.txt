@@ -33,14 +33,14 @@ Stručná osnova predmetu:
 12.	Ekonomické procesy a ich modely. 
 
 
-Na základe tých prednášok a tohoto obsahu by som definoval kapitoly, ktorým sa budeme venovať 
-
-1.Dynamika,modelovanie,dif.rovnice,LPT,obrazy funkcii,parcialne zlomky,ILPT, veta o počiatočnej a konečnej hodnote. Blok Matlab a Simulink. Prednášky: P1,P2a
-2.Prenosové funkcie (typy - nuly,póly,astatizmus), charakteristiky (prechodová, impulzná,frekvenčné),odozvy typických systémov, char polynóm, korene (rozloženie koreňov a vplyv na dynamiku), algebra prenosových funkcii, úprava blokových schém, stavový opis systému, kanonická forma riaditelnosti,vlastné čisla matice. Prednášky: P3,P4
-3.Riadenie, regulátory, URO, ORO, stabilita - kritéria(frekvenčné, algebrické), PID regulátor, kvalita riadenia,trvalá regulačná odchýlka,riadenie jednoduchýs sústav PID regulátorom  Prednášky: P6,P7
+Na základe tých prednášok a tohoto obsahu by som definoval kapitoly, ktorým sa budeme venovať:
+BLOK 0 Matlab a Simulink
+BLOK 1.Dynamika,modelovanie,dif.rovnice,LPT,obrazy funkcii,parcialne zlomky,ILPT, veta o počiatočnej a konečnej hodnote. . Prednášky: P1,P2a
+BLOK 2.Prenosové funkcie (typy - nuly,póly,astatizmus), charakteristiky (prechodová, impulzná,frekvenčné),odozvy typických systémov, char polynóm, korene (rozloženie koreňov a vplyv na dynamiku), algebra prenosových funkcii, úprava blokových schém, stavový opis systému, kanonická forma riaditelnosti,vlastné čisla matice. Prednášky: P3,P4
+BLOK 3.Riadenie, regulátory, URO, ORO, stabilita - kritéria(frekvenčné, algebrické), PID regulátor, kvalita riadenia,trvalá regulačná odchýlka,riadenie jednoduchýs sústav PID regulátorom  Prednášky: P6,P7
 
 Tieto kapitoly  si musíme rozdeliť 
-Mali by byť náročnosťou na vašu prácu vyvážené. Na každý blok bude dvojica.
+Mali by byť náročnosťou na vašu prácu vyvážené. Na bloky 2 a 3 budú dvojice
 
 
  
