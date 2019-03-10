@@ -52,7 +52,7 @@ Bod číslo dva:
 
 Bod číslo tri:
 Naučiť sa modelovať. To znamená, mám diferenciálne rovnice, chcem si poskladať simulačnú schému. 
-Úprava diferenciálnej rovnice vyššieho rádu na viac diferenciálnych rovníc prvého rádu. Transformácia do stavového modelu. Ako vykresliť prechodovú charakteristiku, ako sa robí prevodová charakteristika ako vyzerá lineárna a nelineárna. Ako sa simulačne zmeria frekvenčná charakteristika ... príklad... obrázky... Príklady na konkrétne systémy priamo v Simulinku - určite by som tam dal kyvadlo a jednosmerný motor, ďalej je dobrý príklad harmonický oscilátor .... inšpirujte sa aj v Spojitých procesoch.... 
+Úprava diferenciálnej rovnice vyššieho rádu na viac diferenciálnych rovníc prvého rádu. Ako vykresliť prechodovú charakteristiku, ako sa robí prevodová charakteristika ako vyzerá lineárna a nelineárna. Ako sa simulačne zmeria frekvenčná charakteristika ... príklad... obrázky... Príklady na konkrétne systémy priamo v Simulinku - určite by som tam dal kyvadlo a jednosmerný motor, ďalej je dobrý príklad harmonický oscilátor .... inšpirujte sa aj v Spojitých procesoch.... 
 Ako z diferenciálych rovníc nakresliť blokovú schému. Kedy je systém lineárny a kedy nelineárny.
 
 
