@@ -1,0 +1,47 @@
+﻿Martin Dodek - vedúci, cítim sa na známku A ,silné stránky : Matlab a Simulink,modelovanie systémov, teória riadenia, matematika, kalkulus
+        
+Martin Irha - 
+Jakub Hažík - 
+Dominik Dano - zapisovateľ, silné stránky: C, Matlab, Simulink. Čo sa týka prezentácií, tak mi to učivo nerobí problém pochopiť. Môžem robiť zapisovateľa. Cítim sa na známku B.
+Marek Štipčák - 
+Denis Piovár -
+
+Poprosím každého napísať na akú známku sa cíti z problematiky predmetu UKYB (A -FX), a v čom sa konkrétne cíti silný a čo ho baví (z ľubovolnej oblasti)
+Napríklad: Matlab, teória riadenia, Photoshop,programovanie, pravopis.... 
+
+Podľa toho sa dohodneme na úlohách pre každého, čo mu bude najlepšie.
+Ďalej potrebujem vedieť, kedy budete mať čas na prípadné stretnutia.
+
+
+BLOKY tém prednášok: 
+Povedzme si narovinu.... tie prednášky sú totálny shit....
+Štruktúra delenie tém je tam divná, príklady sú na nič.... vysvetľovanie teórie strašne kostrbaté.
+Musíme sa však držať určitého poradia a sylabom predmetu:
+
+Stručná osnova predmetu:
+1.	Kybernetika ako veda o riadení. 
+2.	Procesy a ich matematický opis (technické, biologické, ekonomické a sociálne). Kybernetický model procesu. 
+3.	Statické a dynamické vlastnosti procesov. Ustálené a prechodné stavy. 
+4.	Technický proces (jednoduchý proces fyzikálne opísateľný pomocou vedomostí z fyziky a elektrotechniky) a jeho matematický model. 
+5.	Systémové vyjadrenie. Prenosová funkcia ako jednoduchý model systému. Vlastnosti prenosových funkcií, póly, nuly. Frekvenčná prenosová funkcia. 
+6.	Graficky vyjadrené modely a ich využitie pri posudzovaní dynamických vlastností systémov. 
+7.	Prechodové charakteristiky systémov. 
+8.	Frekvenčné charakteristiky a ich praktické meranie a využitie. Riadenie procesov. 
+9.	Princíp spätnej väzby. Riadenie ako nevyhnutná činnosť v prevádzke procesov. 
+10.	Stabilita procesov a kvalita riadenia procesov 
+11.	Biologický proces. Procesy riadenia glukózy v krvi živých organizmov. 
+12.	Ekonomické procesy a ich modely. 
+
+
+Na základe tých prednášok a tohoto obsahu by som definoval kapitoly, ktorým sa budeme venovať 
+
+1.Dynamika,modelovanie,dif.rovnice,LPT,obrazy funkcii,parcialne zlomky,ILPT, veta o počiatočnej a konečnej hodnote. Blok Matlab a Simulink. Prednášky: P1,P2a
+2.Prenosové funkcie (typy - nuly,póly,astatizmus), charakteristiky (prechodová, impulzná,frekvenčné),odozvy typických systémov, char polynóm, korene (rozloženie koreňov a vplyv na dynamiku), algebra prenosových funkcii, úprava blokových schém, stavový opis systému, kanonická forma riaditelnosti,vlastné čisla matice. Prednášky: P3,P4
+3.Riadenie, regulátory, URO, ORO, stabilita - kritéria(frekvenčné, algebrické), PID regulátor, kvalita riadenia,trvalá regulačná odchýlka,riadenie jednoduchýs sústav PID regulátorom  Prednášky: P6,P7
+
+Tieto kapitoly  si musíme rozdeliť 
+Mali by byť náročnosťou na vašu prácu vyvážené. Na každý blok bude dvojica.
+
+
+ 
+

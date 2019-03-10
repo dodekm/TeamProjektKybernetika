@@ -24,7 +24,7 @@ Paralelne beží aj filtrácia FSS - povinný predmet, netreba sa preto zameriav
 Pointa : Kde sa študenti naučia základy automatického riadenia ? Na UKYBE.
 Nutné základy pre zvládnutie ďalšieho štúdia. Prvé stretnutie s LPT, simuláciami, schémami a riadením.
 
-Oficiálny silabus predmetu:
+Oficiálny sylabus predmetu:
 Stručná osnova predmetu:
 1.	Kybernetika ako veda o riadení. 
 2.	Procesy a ich matematický opis (technické, biologické, ekonomické a sociálne). Kybernetický model procesu. 
