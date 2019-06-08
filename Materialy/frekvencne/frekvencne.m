@@ -10,9 +10,11 @@ sim('harmonic')
 
 subplot(1,2,1);
 plot(u);
+grid on;
 title('u(t)');
 subplot(1,2,2);
 plot(y);
+grid on;
 title('y(t)');
 
 %% bode

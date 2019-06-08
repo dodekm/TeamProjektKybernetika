@@ -1,10 +1,10 @@
 den = [1 2 1];
 
 num = [1];
-num = [-1 1];
-% num = [1 1];
-% num = [0.8 1];
-
+% num = [-1 1];
+% % num = [1 1];
+num = [0.8 1];
+% num = [3 1];
 
 % num = [1];
 % den = [1 1 3];
@@ -27,29 +27,17 @@ nuly = complex(zero(sys))
 poly = complex(pole(sys))
 
 % prechodova
-subplot(1,2,2);
+subplot(1,2,2); 
 set(gcf, 'Units', 'Normalized', 'OuterPosition', [0, 0.04, 0.5, 0.45]);
 % figure('Renderer', 'painters', 'Position', [10 10 900 600])
 plot(cas, priebeh);
+grid on;
 xlabel('t[s]')
 
-% vytvor text poly
-% strP1 = sprintf('$$p_1 = %0.2f + %0.2fi $$', real(poly(1)), imag(poly(1)));
-% strP2 = sprintf('$$p_2 = %0.2f %0.2fi $$', real(poly(2)), imag(poly(2)));
-
-% vytvor text tf
-% syms s 
-% n = sym(num);
-% d = sym(den);
-% ns = poly2sym(n,s);
-% ds = poly2sym(d,s);
-% tfsym = ns/ds;
-% tftitle = latex(tfsym)
-% strTF = sprintf('F(s) = $$ %s $$', tftitle);  %, 'Interpreter','latex')
 
 % komplexna rovina
 subplot(1,2,1);
-hold on;
+hold on; 
 % data
 plot(poly, 'rx')
 plot(nuly, 'bx')
@@ -58,7 +46,7 @@ grid on;
 xlabel('Real')
 ylabel('Imaginary')
 % axes
-xlim([-2 2])
+xlim([-2 0.1])
 ylim([-2 2])
 xL = xlim;
 yL = ylim;
