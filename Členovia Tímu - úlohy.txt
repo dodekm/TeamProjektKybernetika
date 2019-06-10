@@ -1,18 +1,4 @@
-﻿Martin Dodek - vedúci, cítim sa na známku A ,silné stránky : Matlab a Simulink,modelovanie systémov, teória riadenia, matematika, kalkulus
-        
-Martin Irha - 
-Jakub Hažík - 
-Dominik Dano - zapisovateľ, silné stránky: C, Matlab, Simulink. Čo sa týka prezentácií, tak mi to učivo nerobí problém pochopiť. Môžem robiť zapisovateľa. Cítim sa na známku B.
-Marek Štipčák - 
-Denis Piovár -
-
-Poprosím každého napísať na akú známku sa cíti z problematiky predmetu UKYB (A -FX), a v čom sa konkrétne cíti silný a čo ho baví (z ľubovolnej oblasti)
-Napríklad: Matlab, teória riadenia, Photoshop,programovanie, pravopis.... 
-
-Podľa toho sa dohodneme na úlohách pre každého, čo mu bude najlepšie.
-Ďalej potrebujem vedieť, kedy budete mať čas na prípadné stretnutia.
-
-
+﻿
 BLOKY tém prednášok: 
 Pôvodné prednášky
 Štruktúra delenie tém je tam divná, príklady sú na nič.... vysvetľovanie teórie strašne kostrbaté.

@@ -1,10 +1,7 @@
-﻿IMPORTANT !!!! 
-Prácu na prednáškach si predstavujem riešiť formou úprav a revízii v MS Power Point. 
-Kto to nepozná - obrázok
-
+﻿
 -Študijny program RaK aké sú tam predmety?
 -Predmety nadväzujúce a predchádzajúce UKYB : Prvy semester Uvod do inžinierstva - Matlab len základy .. maticové operácie, 
-Treti semester ide UKYB, beží vtedy aj matematika 3 - povinný predmet ... aký je obsah, ? 
+Treti semester ide UKYB, beží vtedy aj matematika 3 - povinný predmet ... aký je obsah ? 
 Obsah M3- 
 - Obyčajná lineárna diferenciálna rovnica druhého rádu (ODR) s konštantnými koeficientmi a metódy jej riešenia.
 - Laplaceova transformácia – definícia, vlastnosti a aplikácie pri riešení ODR a elektrických obvodov.
@@ -12,8 +9,6 @@ Obsah M3-
 - Fourierov rad, Fourierov integrál a jeho fyzikálny význam Fourierova transformácia, spektrum funkcie, aplikácie v elektrotechnike.
 - Laplaceova transformácia, veta o konečnej a začiatočnej hodnote, obrazy vybraných funkcií.
 - Inverzná Laplaceova transformácia, Heavisideov rozvoj, aplikácie
-
-Treba si uvedomiť, že je zbytočné toto učiť dopodrobna a znovu aj na UKYB
 
 Postrehy:
 - študenti, ktorí nezvládnu na prvý pokus M2 nebudú mať žiadne základy o Laplaceovej transformácii na predmete UKYB

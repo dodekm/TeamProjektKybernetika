@@ -1,4 +1,4 @@
-http://urk.fei.stuba.sk/sk/content/informacie-k-projektom-timovy-projekt
+﻿http://urk.fei.stuba.sk/sk/content/informacie-k-projektom-timovy-projekt
 Tímový projekt
 Predmet pre študentov 1. ročníka študijných programov inžinierskeho štúdia Robotika a Kybermetika. 
 Predmet sa hodnotí klasifikovaným zápočtom (6 kreditov). 
