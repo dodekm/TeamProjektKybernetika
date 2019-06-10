@@ -1,0 +1,35 @@
+Rozdelenie bodov pre jednotlivých èlenov tímu - návrh.
+Vedúci (v tomto prípade prof. Ing. Ján Murgaš, PhD. ) oznámi po obhajobe celkový poèet bodov z maximálneho možného (nx100, kde n je poèet èlenov tímu).
+Tím si body rozdelí medzi sebou pod¾a vlastného uváženia
+
+Pridelené úlohy: 
+
+BLOK 0 Matlab a Simulink
+BLOK 1.Dynamika,modelovanie,dif.rovnice,LPT,obrazy funkcii,parcialne zlomky,ILPT, veta o poèiatoènej a koneènej hodnote,algebra prenosových funkcii, úprava blokových schém
+BLOK 2.Prenosové funkcie (typy - nuly,póly,astatizmus), charakteristiky (prechodová, impulzná,frekvenèné, prevodochá char),odozvy typických systémov, char polynóm, korene (rozloženie koreòov a vplyv na dynamiku)
+BLOK 3.stabilita - kritéria(frekvenèné, algebrické),stavový opis systému, kanonická forma riaditelnosti,vlastné èisla matice
+BLOK 4.Riadenie, regulátory, URO, ORO, , PID regulátor, kvalita riadenia,trvalá regulaèná odchýlka,riadenie jednoduchých sústav PID regulátorom,Návrh optimálnych parametrov PID regulátorov
+BLOK 5.Frekvenèné kritéria stability -Návrh korekèných èlenov
+
+Aktuálne rozdelenie:
+BLOK 0 Dominik Dano
+BLOK 1 Martin Dodek
+BLOK 2 Jakub Hažík
+BLOK 3 Matin Irha
+BLOK 4 Marek Štipèák 
+BLOK 5 Denis Piovár
+
+Percentuálne rozdelenie bodov študentom pod¾a vedúceho tímu (spolu 100 percent) nasledovne:
+
+
+
+
+
+
+
+
+
+navrhol
+Bc. Martin Dodek
+10.6.2019
+

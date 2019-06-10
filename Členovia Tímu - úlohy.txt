@@ -14,9 +14,9 @@ Podľa toho sa dohodneme na úlohách pre každého, čo mu bude najlepšie.
 
 
 BLOKY tém prednášok: 
-Povedzme si narovinu.... tie prednášky sú totálny shit....
+Pôvodné prednášky
 Štruktúra delenie tém je tam divná, príklady sú na nič.... vysvetľovanie teórie strašne kostrbaté.
-Musíme sa však držať určitého poradia a sylabom predmetu:
+Musíme sa však držať určitého poradia a sylabu predmetu:
 
 Stručná osnova predmetu:
 1.	Kybernetika ako veda o riadení. 
@@ -35,20 +35,19 @@ Stručná osnova predmetu:
 
 Na základe tých prednášok a tohoto obsahu by som definoval kapitoly, ktorým sa budeme venovať:
 BLOK 0 Matlab a Simulink
-BLOK 1.Dynamika,modelovanie,dif.rovnice,LPT,obrazy funkcii,parcialne zlomky,ILPT, veta o počiatočnej a konečnej hodnote. . Prednášky: P1,P2a
-BLOK 2.Prenosové funkcie (typy - nuly,póly,astatizmus), charakteristiky (prechodová, impulzná,frekvenčné),odozvy typických systémov, char polynóm, korene (rozloženie koreňov a vplyv na dynamiku), algebra prenosových funkcii, úprava blokových schém, stavový opis systému, kanonická forma riaditelnosti,vlastné čisla matice. Prednášky: P3,P4
-BLOK 3.Riadenie, regulátory, URO, ORO, stabilita - kritéria(frekvenčné, algebrické), PID regulátor, kvalita riadenia,trvalá regulačná odchýlka,riadenie jednoduchýs sústav PID regulátorom  Prednášky: P6,P7
+BLOK 1.Dynamika,modelovanie,dif.rovnice,LPT,obrazy funkcii,parcialne zlomky,ILPT, veta o počiatočnej a konečnej hodnote,algebra prenosových funkcii, úprava blokových schém
+BLOK 2.Prenosové funkcie (typy - nuly,póly,astatizmus), charakteristiky (prechodová, impulzná,frekvenčné, prevodochá char),odozvy typických systémov, char polynóm, korene (rozloženie koreňov a vplyv na dynamiku)
+BLOK 3.stabilita - kritéria(frekvenčné, algebrické),stavový opis systému, kanonická forma riaditelnosti,vlastné čisla matice
+BLOK 4.Riadenie, regulátory, URO, ORO, , PID regulátor, kvalita riadenia,trvalá regulačná odchýlka,riadenie jednoduchých sústav PID regulátorom,Návrh optimálnych parametrov PID regulátorov
+BLOK 5.Frekvenčné kritéria stability -Návrh korekčných členov
 
-Tieto kapitoly  si musíme rozdeliť 
-Mali by byť náročnosťou na vašu prácu vyvážené. Na bloky 2 a 3 budú dvojice.
-
-
-Navrhované rozdelenie: (komentujte) 
+Aktuálne rozdelenie:
 BLOK 0 Dominik Dano
 BLOK 1 Martin Dodek
-BLOK 2 Jakub Hažík, Matin Irha
-BLOK 3 Marek Štipčák,Denis Piovár
-
+BLOK 2 Jakub Hažík
+BLOK 3 Matin Irha
+BLOK 4 Marek Štipčák 
+BLOK 5 Denis Piovár
 
 Materiály a zdroje, ktoré považujem za dobré nahrám do priečinku zdroje. Konkrétne: Prednášky Aplikovaná Matematika 2016, prednášky z AR1.
 
